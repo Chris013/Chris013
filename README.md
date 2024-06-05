@@ -17,5 +17,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://leetcard.jacoblin.cool/Chris013?theme=unicorn)
 ![](https://leetcard.jacoblin.cool/Chris013?theme=light,unicorn)
