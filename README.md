@@ -1,7 +1,6 @@
 ## Hi there 👋, I'm Chris
 
-🔭 I’m currently working as Junior Java Software Developer <br>
-🌱 I’m currently learning Java
+🔭 I’m currently working as Java Software Developer <br>
 <!--
 **Chris013/Chris013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
