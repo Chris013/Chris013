@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![roadmap.sh](https://roadmap.sh/card/tall/6af4638c9f520f91cc98414c?variant=dark)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/tall/6af4638c9f520f91cc98414c?variant=dark&roadmaps=backend%2Cfrontend%2Cjava%2Csql)](https://roadmap.sh)
 ![](https://leetcard.jacoblin.cool/Chris013?theme=light,unicorn)
